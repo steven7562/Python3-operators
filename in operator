@@ -1,0 +1,11 @@
+# Operators can be used to verify if a statement is true 
+
+# Create a variable
+
+My_var = "Python is awsome"
+
+# Check if a word is included in the string with the in operator
+
+"awesome" in My_var
+
+# The output will return True 
