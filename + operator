@@ -1,0 +1,5 @@
+# + operator can be used to add up in python
+
+# Create a variable and give the variable the result of 5 + 3 when called
+
+Var1 = 5 + 3
