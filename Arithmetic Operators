@@ -1,3 +1,14 @@
+# Python arithmetic operators
+# +	Addition	x + y	
+# -	Subtraction	x - y	
+# *	Multiplication	x * y	
+# /	Division	x / y	
+# %	Modulus	x % y	
+# **	Exponentiation	x ** y	
+# //	Floor division	x // y
+
+
+
 # + operator can be used to add up in python
 
 # Create a variable and give the variable the result of 5 + 3 when called
